@@ -1,4 +1,4 @@
-## Example Challenge
+## Example Coding Challenge
 
 ## Setup
 
@@ -7,7 +7,7 @@
 
 ```
 $ git clone https://github.com/YOURUSERNAME/example-challenge.git
-$ cd example-challenge-
+$ cd example-challenge
 ```
 
 
