@@ -18,7 +18,7 @@ $ cd example-challenge
 5. Run the test specs to test your code. To run the specs for a directory, you need to go into that directory and run the command `testem`.
 
 ```
-$ cd foundations-challenge-1
+$ cd example-challenge
 $ testem
 TEST'EM 'SCRIPTS!
 Open the URL below in a browser to connect.
