@@ -27,7 +27,7 @@ http://localhost:7357/
 
 ## Submission
 
-When you are passing all the specs, or have run out of time, commit your changes and push them up to your repository for the coding portion of the challenge to be graded in Learndot.
+When you are passing all the specs, or have run out of time, commit your changes and push them up to your repository for the coding portion of the challenge to be graded in Fullstack's Learning Platform.
 
 Make sure you press **Complete Assessment** on the Example Challenge Page to submit your Challenge when you are finished!
 
